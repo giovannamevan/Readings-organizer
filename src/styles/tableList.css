@@ -1,0 +1,33 @@
+.tableOfBooks {
+    background:black;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 1px;
+    border: 3px solid #b13ac1;
+    border-bottom: 0px;
+    margin-right: 6px;
+    margin-left: 6px;
+    
+}
+.nameList {
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 16px;
+}
+
+.table {
+    display: flex;
+    color: white;
+    display: flex;
+    margin-left: 80px;
+    text-align: center;
+    border: 1px solid #b13ac1;
+    border-bottom: none;
+    
+}
+ th,td{
+    width: 45vh;
+    text-align: center;
+    padding: 5px;
+ }

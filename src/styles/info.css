@@ -1,0 +1,37 @@
+
+.mainInfos {
+    background-color: black;
+    border-radius: 6px;
+    border: 3px solid #b13ac1;
+    width: 300vh;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    font-family: 'Righteous', cursive;
+   
+}
+
+.info{
+    color:white;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.note{
+    color: #b13ac1;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
